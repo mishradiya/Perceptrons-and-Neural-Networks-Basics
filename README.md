@@ -52,6 +52,7 @@ cd perceptron-classification
 pip install -r requirements.txt
 Open the notebook file in Jupyter and run the cells.
 
+
 -----------------------Results------------------------------------------------------
 The perceptron model achieved a training accuracy of 86.1% and a test accuracy of 85.5%.
 The misclassification error decreased significantly over the iterations.
