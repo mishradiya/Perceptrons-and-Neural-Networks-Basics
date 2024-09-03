@@ -1,5 +1,9 @@
 ----------Perceptron Classification Project-----------------
+
 This project demonstrates the implementation of a perceptron algorithm to classify gender based on height and weight data. The project includes tasks such as reading the dataset, performing train-test splits, training the algorithm, and visualizing the results.
+
+
+
 ------------------------------------------------------------
 Table of Contents
 Overview
